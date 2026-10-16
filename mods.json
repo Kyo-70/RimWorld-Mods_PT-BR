@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "slug": "PawnEditorForked",
+      "name": "Pawn Editor Forked",
+      "workshopId": "3667931113",
+      "sourceUrl": "https://github.com/segaswolf/pawn-editor-forked",
+      "sourceVersion": "3.2.4",
+      "sourceCommit": "986a7c7714e11cdfa80473e70f7d72d37cf6f816"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+    <PawnEditor>Editor de Personagens</PawnEditor>
+    <PawnEdtior.OverrideVanilla>Substituir a janela padrão</PawnEdtior.OverrideVanilla>
+    <PawnEditor.OverrideVanilla.Desc>Substitui a tela padrão de criação de personagens pela tela do Editor de Personagens. Se desativado, um botão do Editor de Personagens aparecerá na parte inferior da tela para abrir o editor.</PawnEditor.OverrideVanilla.Desc>
+    <PawnEditor.InGameDevButton>Botão no modo de desenvolvedor</PawnEditor.InGameDevButton>
+    <PawnEditor.InGameDevButton.Desc>Ativa o botão para abrir o Editor de Personagens no modo de desenvolvedor durante o jogo.</PawnEditor.InGameDevButton.Desc>
+    <PawnEditor.PointLimit>Limite de pontos</PawnEditor.PointLimit>
+    <PawnEditor.UseSilver>Usar prata como pontos</PawnEditor.UseSilver>
+    <PawnEditor.UseSilver.Desc>O limite de pontos será igual à quantidade de prata da colônia atual, e os pontos gastos serão descontados da prata.</PawnEditor.UseSilver.Desc>
+    <PawnEditor.CountNPCs>Incluir personagens não jogáveis nos pontos</PawnEditor.CountNPCs>
+    <PawnEditor.CountNPCs.Desc>Se ativado, personagens não jogáveis também afetarão seu limite de pontos.</PawnEditor.CountNPCs.Desc>
+    <PawnEditor.ShowEditButton>Mostrar botão de edição</PawnEditor.ShowEditButton>
+    <PawnEditor.ShowEditButton.Desc>Mostra um botão na barra inferior para abrir o Editor de Personagens com o personagem selecionado.</PawnEditor.ShowEditButton.Desc>
+    <PawnEditor.PauseWhileEditorOpen>Pausar enquanto o editor estiver aberto</PawnEditor.PauseWhileEditorOpen>
+    <PawnEditor.PauseWhileEditorOpen.Desc>Mantém o tempo de jogo pausado enquanto o editor estiver aberto. Ainda é possível clicar no mapa e na interface ao fundo.</PawnEditor.PauseWhileEditorOpen.Desc>
+    <PawnEditor.ResetConfirmation>Restaurar todas as mensagens de confirmação</PawnEditor.ResetConfirmation>
+    <PawnEditor.HediffLocation>Limitar as partes possíveis para condições a...</PawnEditor.HediffLocation>
+    <PawnEditor.HediffLocation.All>todas</PawnEditor.HediffLocation.All>
+    <PawnEditor.HediffLocation.RecipeDef>locais de instalação</PawnEditor.HediffLocation.RecipeDef>
+    <PawnEditor.EnforceHARRestrictions>Aplicar restrições do HAR</PawnEditor.EnforceHARRestrictions>
+    <PawnEditor.EnforceHARRestrictions.Desc>Quando ativado, as restrições do HAR para itens como roupas e pensamentos serão aplicadas no editor.</PawnEditor.EnforceHARRestrictions.Desc>
+    <PawnEditor.HideRandomFactions>Ocultar nomes de facções fora da colônia</PawnEditor.HideRandomFactions>
+    <PawnEditor.HideRandomFactions.Desc>Oculta as facções que não pertencem à colônia durante a edição de personagens antes do início da partida.</PawnEditor.HideRandomFactions.Desc>
+    <PawnEditor.EditorHotkey>Atalho do editor</PawnEditor.EditorHotkey>
+    <PawnEditor.PressAnyKey>Pressione qualquer tecla...</PawnEditor.PressAnyKey>
+</LanguageData>

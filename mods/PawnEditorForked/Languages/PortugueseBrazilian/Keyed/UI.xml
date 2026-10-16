@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+    <!-- Sorted by ChatGPT 3.5 -->
+    <!-- Character Editor -->
+    <PawnEditor.EditCharacters>Editar personagens</PawnEditor.EditCharacters>
+    <PawnEditor.UsePointLimit>Usar limite de pontos</PawnEditor.UsePointLimit>
+    <PawnEditor.PointsRemaining>Pontos restantes:</PawnEditor.PointsRemaining>
+    <PawnEditor.SelectedFaction>Facção selecionada</PawnEditor.SelectedFaction>
+    <PawnEditor.SelectFaction>Selecionar facção</PawnEditor.SelectFaction>
+    <PawnEditor.ClickFactionOverview>Clique para ver os detalhes da facção</PawnEditor.ClickFactionOverview>
+    <PawnEditor.SelectedCategory>Categoria selecionada</PawnEditor.SelectedCategory>
+
+    <!-- Pawn Categories -->
+    <PawnEditor.PawnCategory.Humans>humanoide</PawnEditor.PawnCategory.Humans>
+    <PawnEditor.PawnCategory.Animals>animal</PawnEditor.PawnCategory.Animals>
+    <PawnEditor.PawnCategory.Mechs>mecanoide</PawnEditor.PawnCategory.Mechs>
+
+    <!-- Delete Confirmation -->
+    <PawnEditor.ReallyDelete>Deseja mesmo excluir {0}?</PawnEditor.ReallyDelete>
+
+    <!-- Add Pawn -->
+    <PawnEditor.Add.PawnKind>Adicionar personagem de PawnKindDef</PawnEditor.Add.PawnKind>
+    <PawnEditor.Add.Saved>Adicionar {0} salvo</PawnEditor.Add.Saved>
+    <PawnEditor.Add.SavedStable>Adicionar {0} salvo (clone estável)</PawnEditor.Add.SavedStable>
+    <PawnEditor.Add.Random>Adicionar {0} aleatório ({1} pontos)</PawnEditor.Add.Random>
+    <PawnEditor.Add.OtherSave>Adicionar personagem de outro jogo salvo</PawnEditor.Add.OtherSave>
+    <PawnEditor.Add.Backer>Adicionar personagem especial</PawnEditor.Add.Backer>
+
+    <!-- Teleport and Editor -->
+    <PawnEditor.Teleport>Teletransportar</PawnEditor.Teleport>
+    <PawnEditor.CharacterEditor>Editor de Personagens</PawnEditor.CharacterEditor>
+
+    <!-- Selection -->
+    <PawnEditor.Selected>selecionado</PawnEditor.Selected>
+    <PawnEditor.Colony>colônia</PawnEditor.Colony>
+    <PawnEditor.StartingPreset>predefinição inicial</PawnEditor.StartingPreset>
+
+    <!-- Load and Randomize -->
+    <PawnEditor.LoadPawn>Carregar personagem</PawnEditor.LoadPawn>
+    <PawnEditor.LoadPawnReplace>Carregar personagem (substituir selecionado)</PawnEditor.LoadPawnReplace>
+    <PawnEditor.LoadPawnAsClone>Carregar personagem como novo clone</PawnEditor.LoadPawnAsClone>
+    <PawnEditor.DuplicatePawn>Duplicar personagem</PawnEditor.DuplicatePawn>
+    <PawnEditor.LoadFaction>Carregar facção</PawnEditor.LoadFaction>
+    <PawnEditor.Randomize>Aleatorizar</PawnEditor.Randomize>
+    <PawnEditor.AllIncludingFaction>tudo, inclusive facção</PawnEditor.AllIncludingFaction>
+    <PawnEditor.AllKeepXenotype>tudo, mantendo o xenótipo</PawnEditor.AllKeepXenotype>
+    <PawnEditor.SelectRandomFaction>Aleatorizar facção</PawnEditor.SelectRandomFaction>
+    <PawnEditor.WithRandomFaction>Com facção aleatória</PawnEditor.WithRandomFaction>
+    <PawnEditor.FactionHidden>Facção oculta</PawnEditor.FactionHidden>
+    <PawnEditor.NoFaction>Sem facção</PawnEditor.NoFaction>
+    <PawnEditor.RandomFaction>Facção aleatória</PawnEditor.RandomFaction>
+    <PawnEditor.RandomAlly>Facção aliada aleatória</PawnEditor.RandomAlly>
+    <PawnEditor.RandomEnemy>Facção inimiga aleatória</PawnEditor.RandomEnemy>
+    <PawnEditor.RandomNonHostile>Facção não hostil aleatória</PawnEditor.RandomNonHostile>
+    <PawnEditor.RandomNonColonist>Facção aleatória fora da colônia</PawnEditor.RandomNonColonist>
+
+
+    <!-- Edit Appearance -->
+    <PawnEditor.EditAppearance>Editar aparência</PawnEditor.EditAppearance>
+    <PawnEditor.Sex>Sexo</PawnEditor.Sex>
+    <PawnEditor.Basic>Básico</PawnEditor.Basic>
+    <PawnEditor.Age>Idade</PawnEditor.Age>
+    <PawnEditor.Biological>Biológica</PawnEditor.Biological>
+    <PawnEditor.Chronological>Cronológica</PawnEditor.Chronological>
+    <PawnEditor.EmpireTitle>Título imperial</PawnEditor.EmpireTitle>
+    <PawnEditor.Honor>Honra</PawnEditor.Honor>
+    <PawnEditor.GotoGearTab>Ir para a aba de equipamentos...</PawnEditor.GotoGearTab>
+    <PawnEditor.NoStyles>Nenhum estilo disponível para o item selecionado.</PawnEditor.NoStyles>
+    <PawnEditor.Body>Corpo</PawnEditor.Body>
+    <PawnEditor.Head>Cabeça</PawnEditor.Head>
+    <PawnEditor.IgnoreXenotype>Ignorar restrições do xenótipo</PawnEditor.IgnoreXenotype>
+    <PawnEditor.IgnoreXenotypeDesc>Permite escolher cabeças, tipos de corpo e genes cosméticos que o xenótipo ou a raça normalmente não permitiria.</PawnEditor.IgnoreXenotypeDesc>
+    <PawnEditor.Ears>Orelhas</PawnEditor.Ears>
+    <PawnEditor.Headbone>Testa (chifres)</PawnEditor.Headbone>
+    <PawnEditor.BodyType>Tipo de corpo</PawnEditor.BodyType>
+    <PawnEditor.Voice>Voz</PawnEditor.Voice>
+    <PawnEditor.Fur>Pele (pelagem)</PawnEditor.Fur>
+    <PawnEditor.XenotypeForbbiden>Não permitido pelo xenótipo.</PawnEditor.XenotypeForbbiden>
+
+    <!-- Ideology and Groups -->
+    <PawnEditor.SelectIdeo>Selecionar ideologia</PawnEditor.SelectIdeo>
+    <PawnEditor.Groups>Grupos</PawnEditor.Groups>
+
+    <!-- Extras -->
+    <PawnEditor.Extras>Extras</PawnEditor.Extras>
+    <PawnEditor.FavColor>Cor favorita</PawnEditor.FavColor>
+    <PawnEditor.PickColor>Escolher cor</PawnEditor.PickColor>
+    <PawnEditor.Preset>Predefinição</PawnEditor.Preset>
+    <PawnEditor.SetAllTo>Definir todos os {0} como {1}</PawnEditor.SetAllTo>
+    <PawnEditor.Max>máximo</PawnEditor.Max>
+    <PawnEditor.Passions>paixões</PawnEditor.Passions>
+    <PawnEditor.TrainedLevel>Nível de treinamento</PawnEditor.TrainedLevel>
+
+    <!-- Shape and Weight -->
+    <PawnEditor.Shape>Formato</PawnEditor.Shape>
+    <PawnEditor.Weight>Peso</PawnEditor.Weight>
+    <PawnEditor.Hair>Cabelo</PawnEditor.Hair>
+    <PawnEditor.CosmeticGenes>Genes cosméticos</PawnEditor.CosmeticGenes>
+    <PawnEditor.CustomizeFace>Personalizar rosto</PawnEditor.CustomizeFace>
+    <PawnEditor.ChooseSource>Escolher mod de origem</PawnEditor.ChooseSource>
+    <PawnEditor.ChooseCategory>Escolher categoria</PawnEditor.ChooseCategory>
+    <PawnEditor.NothingFromSource>Nada aqui vem de {0}. O filtro de origem se aplica a todas as abas.</PawnEditor.NothingFromSource>
+    <PawnEditor.ShowAllSources>Mostrar todas as origens</PawnEditor.ShowAllSources>
+    <PawnEditor.EquipRefusedKeptAsPossession>{0} não pode equipar {1} (outro mod não permite, por exemplo, por falta de proficiência). O item foi adicionado aos pertences do personagem.</PawnEditor.EquipRefusedKeptAsPossession>
+    <PawnEditor.MissingGenesShort>({0} genes ausentes)</PawnEditor.MissingGenesShort>
+    <PawnEditor.MissingGenesTip>Esses genes pertencem a mods que não estão carregados e serão ignorados: {0}</PawnEditor.MissingGenesTip>
+    <PawnEditor.MissingGenesMods>Mods ativos quando este xenótipo foi salvo que não estão carregados agora:\n{0}</PawnEditor.MissingGenesMods>
+    <PawnEditor.MissingGenesManyMods>{0} mods que estavam ativos quando este xenótipo foi salvo não estão carregados agora.</PawnEditor.MissingGenesManyMods>
+    <PawnEditor.AppliedWithMissingGenes>{0} aplicado sem {1} genes de mods que não estão carregados: {2}</PawnEditor.AppliedWithMissingGenes>
+    <PawnEditor.SpecialBodyType>{0} (especial de mod)</PawnEditor.SpecialBodyType>
+    <PawnEditor.SpecialBodyTypeDesc>Nenhuma história de fundo ou raça usa este tipo de corpo: um mod o adiciona para uso próprio. Ele pode aparecer incorretamente ou deixar o personagem invisível.</PawnEditor.SpecialBodyTypeDesc>
+    <PawnEditor.NothingToRandomize>Nada para aleatorizar com os filtros atuais.</PawnEditor.NothingToRandomize>
+    <PawnEditor.All>Todos</PawnEditor.All>
+    <PawnEditor.ShowHeadgear>Mostrar acessórios de cabeça</PawnEditor.ShowHeadgear>
+    <PawnEditor.ShowApparel>Mostrar roupas</PawnEditor.ShowApparel>
+
+
+    <!-- Name and Hitpoints -->
+    <PawnEditor.Name>Nome</PawnEditor.Name>
+    <PawnEditor.Hitpoints>Pontos de vida</PawnEditor.Hitpoints>
+
+    <!-- Possession and PawnKindDef -->
+    <PawnEditor.Possession>pertence</PawnEditor.Possession>
+    <PawnEditor.FromKind>de PawnKindDef</PawnEditor.FromKind>
+    <PawnEditor.PawnKindDef>pawnKindDef</PawnEditor.PawnKindDef>
+
+    <!-- Abilities and Quick Actions -->
+    <PawnEditor.Ability>Habilidade</PawnEditor.Ability>
+    <PawnEditor.QuickActions>Ações rápidas</PawnEditor.QuickActions>
+    <PawnEditor.AlreadyHas>Este personagem já possui {0} {1}.</PawnEditor.AlreadyHas>
+    <PawnEditor.AddApparel>Adicionar roupa</PawnEditor.AddApparel>
+    <PawnEditor.AddRanged>Adicionar arma de longo alcance</PawnEditor.AddRanged>
+    <PawnEditor.AddMelee>Adicionar arma corpo a corpo</PawnEditor.AddMelee>
+    <PawnEditor.AddItem>Adicionar item</PawnEditor.AddItem>
+    <PawnEditor.Change>Alterar...</PawnEditor.Change>
+    <PawnEditor.Condition>Condição</PawnEditor.Condition>
+    <PawnEditor.Editing>Editando</PawnEditor.Editing>
+    <PawnEditor.ItemType.RangedWeapons>Armas de longo alcance</PawnEditor.ItemType.RangedWeapons>
+    <PawnEditor.ItemType.MeleeWeapons>Armas corpo a corpo</PawnEditor.ItemType.MeleeWeapons>
+    <PawnEditor.ItemType.Items>Itens</PawnEditor.ItemType.Items>
+    <PawnEditor.Fallback.HeadFace>Cabeça e rosto</PawnEditor.Fallback.HeadFace>
+    <PawnEditor.Fallback.Hands>Mãos</PawnEditor.Fallback.Hands>
+    <PawnEditor.Fallback.LegsFeet>Pernas e pés</PawnEditor.Fallback.LegsFeet>
+    <PawnEditor.Fallback.UtilityApparel>Roupas utilitárias</PawnEditor.Fallback.UtilityApparel>
+    <PawnEditor.Fallback.BodyApparel>Roupas para o corpo</PawnEditor.Fallback.BodyApparel>
+    <PawnEditor.Fallback.OtherApparel>Outras roupas</PawnEditor.Fallback.OtherApparel>
+    <PawnEditor.Fallback.OtherRangedWeapons>Outras armas de longo alcance</PawnEditor.Fallback.OtherRangedWeapons>
+    <PawnEditor.Fallback.OtherMeleeWeapons>Outras armas corpo a corpo</PawnEditor.Fallback.OtherMeleeWeapons>
+    <PawnEditor.Fallback.Food>Comida</PawnEditor.Fallback.Food>
+    <PawnEditor.Fallback.Medicine>Remédios</PawnEditor.Fallback.Medicine>
+    <PawnEditor.Fallback.Drugs>Drogas</PawnEditor.Fallback.Drugs>
+    <PawnEditor.Fallback.ResourcesMaterials>Recursos e materiais</PawnEditor.Fallback.ResourcesMaterials>
+    <PawnEditor.Fallback.UtilityItems>Itens utilitários</PawnEditor.Fallback.UtilityItems>
+    <PawnEditor.Fallback.OtherItems>Outros itens</PawnEditor.Fallback.OtherItems>
+
+    <!-- Needs and Thoughts -->
+    <PawnEditor.RefillNeeds>Restaurar necessidades ao máximo</PawnEditor.RefillNeeds>
+    <PawnEditor.CancelBreakdown>Cancelar colapso mental</PawnEditor.CancelBreakdown>
+    <PawnEditor.Thought>Pensamento</PawnEditor.Thought>
+    <PawnEditor.Thoughts>Pensamentos</PawnEditor.Thoughts>
+    <PawnEditor.AddThought>Adicionar pensamento</PawnEditor.AddThought>
+    <PawnEditor.RemoveNegative.Thoughts>Remover todos os pensamentos negativos</PawnEditor.RemoveNegative.Thoughts>
+
+    <!-- Hediffs -->
+    <PawnEditor.AddHediff>Adicionar condição de saúde</PawnEditor.AddHediff>
+    <PawnEditor.TendAll>Tratar todas as condições</PawnEditor.TendAll>
+    <PawnEditor.RemoveNegative.Hediffs>Remover todos os efeitos negativos</PawnEditor.RemoveNegative.Hediffs>
+    <PawnEditor.ShowHidden.Hediffs>Mostrar condições de saúde ocultas</PawnEditor.ShowHidden.Hediffs>
+    <PawnEditor.HediffType>Tipo de condição de saúde</PawnEditor.HediffType>
+    <PawnEditor.Hediffs>condições de saúde</PawnEditor.Hediffs>
+    <PawnEditor.Hediff>condição de saúde</PawnEditor.Hediff>
+    <PawnEditor.Prosthetics>próteses</PawnEditor.Prosthetics>
+
+    <!-- Opinion and Relations -->
+    <PawnEditor.Bonded>Vinculado</PawnEditor.Bonded>
+    <PawnEditor.FactionName>Nome da facção</PawnEditor.FactionName>
+    <PawnEditor.FactionTechLevel>Nível tecnológico da facção</PawnEditor.FactionTechLevel>
+    <PawnEditor.SettlementName>Nome do assentamento</PawnEditor.SettlementName>
+    <PawnEditor.FactionIcon>Ícone da facção</PawnEditor.FactionIcon>
+    <PawnEditor.AddColonist>Adicionar colono</PawnEditor.AddColonist>
+    <PawnEditor.AddRelation>Adicionar relação</PawnEditor.AddRelation>
+    <PawnEditor.ForceRomance>Forçar romance</PawnEditor.ForceRomance>
+    <PawnEditor.Relation>Relação</PawnEditor.Relation>
+    <PawnEditor.ShowAll.Relations>Mostrar todas as relações</PawnEditor.ShowAll.Relations>
+    <PawnEditor.Pawn>Personagem</PawnEditor.Pawn>
+    <PawnEditor.Parent>Pai ou mãe</PawnEditor.Parent>
+
+    <!-- Color Picker -->
+    <PawnEditor.Hex>Hex</PawnEditor.Hex>
+    <PawnEditor.DefaultColor>Cor padrão</PawnEditor.DefaultColor>
+    <PawnEditor.FavoriteColor>Cor favorita</PawnEditor.FavoriteColor>
+    <PawnEditor.PasteFromClipboard>Colar HEX</PawnEditor.PasteFromClipboard>
+    <PawnEditor.PasteFromClipboard.Success>Código HEX colado da área de transferência.</PawnEditor.PasteFromClipboard.Success>
+    <PawnEditor.PasteFromClipboard.Failure>O conteúdo da área de transferência não está no formato HEX.</PawnEditor.PasteFromClipboard.Failure>
+
+    <!-- Filters -->
+    <PawnEditor.Filters>Filtros</PawnEditor.Filters>
+    <PawnEditor.Filter>Filtro</PawnEditor.Filter>
+    <PawnEditor.InvertFilter>Inverter filtro</PawnEditor.InvertFilter>
+    <PawnEditor.SourceDesc>Selecione o conteúdo de quais mods ou DLCs deve ser mostrado.</PawnEditor.SourceDesc>
+    <PawnEditor.ShuffableOnly>Mostrar apenas histórias de fundo usadas na geração aleatória</PawnEditor.ShuffableOnly>
+    <PawnEditor.ShuffableOnlyDesc>Mostra apenas histórias de fundo usadas para gerar personagens aleatórios. Isso exclui histórias adicionadas por jogadores por meio do DLC Name in Game.</PawnEditor.ShuffableOnlyDesc>
+    <PawnEditor.BackstorySlot>Fase da história de fundo</PawnEditor.BackstorySlot>
+    <PawnEditor.BackstorySlotDesc>Selecione histórias de fundo da infância ou da vida adulta.</PawnEditor.BackstorySlotDesc>
+    <PawnEditor.BackstoryType>Categoria da história de fundo</PawnEditor.BackstoryType>
+    <PawnEditor.BackstoryTypeDesc>Selecione quais categorias de histórias de fundo serão mostradas.</PawnEditor.BackstoryTypeDesc>
+    <PawnEditor.Categories>categorias</PawnEditor.Categories>
+    <PawnEditor.SkillGain>Bônus de habilidade</PawnEditor.SkillGain>
+    <PawnEditor.SkillGainDesc>Selecione uma habilidade na qual o personagem deve receber um bônus positivo.</PawnEditor.SkillGainDesc>
+    <PawnEditor.WorkDisables>Ocultar histórias de fundo que impedem trabalhos</PawnEditor.WorkDisables>
+    <PawnEditor.DisabledWorkTypes>Tipos de trabalho impedidos</PawnEditor.DisabledWorkTypes>
+    <PawnEditor.DisabledWorkTypesDesc>Selecione um tipo de trabalho que o personagem não deve poder realizar.</PawnEditor.DisabledWorkTypesDesc>
+    <PawnEditor.SkillLose>Ocultar histórias de fundo que reduzem habilidades</PawnEditor.SkillLose>
+    <PawnEditor.SkillLoses>Reduções de habilidade</PawnEditor.SkillLoses>
+    <PawnEditor.SkillLosesDesc>Selecione uma habilidade na qual o personagem deve receber um bônus negativo.</PawnEditor.SkillLosesDesc>
+    <PawnEditor.MinAbilityLevel>Nível</PawnEditor.MinAbilityLevel>
+    <PawnEditor.MinAbilityLevelDesc>Intervalo de níveis dos psicopoderes a mostrar.</PawnEditor.MinAbilityLevelDesc>
+    <PawnEditor.HasStyle>Tem estilo</PawnEditor.HasStyle>
+    <PawnEditor.HasStuff>Tem material</PawnEditor.HasStuff>
+    <PawnEditor.WornOnBodyPart>Usado na parte do corpo</PawnEditor.WornOnBodyPart>
+    <PawnEditor.Prosthetic>É prótese</PawnEditor.Prosthetic>
+    <PawnEditor.TechLevel>Nível tecnológico</PawnEditor.TechLevel>
+    <PawnEditor.IsInjury>É ferimento</PawnEditor.IsInjury>
+    <PawnEditor.IsImplant>É implante</PawnEditor.IsImplant>
+    <PawnEditor.IsDisease>É doença</PawnEditor.IsDisease>
+    <PawnEditor.OccupiesLayer>Ocupa camada</PawnEditor.OccupiesLayer>
+    <PawnEditor.IsHuman>É humano</PawnEditor.IsHuman>
+    <PawnEditor.IsColonist>É colono</PawnEditor.IsColonist>
+    <PawnEditor.IsAlive>Está vivo</PawnEditor.IsAlive>
+
+    <!-- Options -->
+    <PawnEditor.Tainted>Contaminado</PawnEditor.Tainted>
+    <PawnEditor.Unavailable>Indisponível</PawnEditor.Unavailable>
+    <PawnEditor.UnavailableDesc>Esta opção não está disponível para o item selecionado.</PawnEditor.UnavailableDesc>
+    <PawnEditor.Severity>Gravidade</PawnEditor.Severity>
+    <PawnEditor.IsPermanent>É permanente</PawnEditor.IsPermanent>
+    <PawnEditor.BodyPart>Parte do corpo</PawnEditor.BodyPart>
+
+
+    <!-- Unsorted -->
+    <PawnEditor.StartingThings>itens iniciais</PawnEditor.StartingThings>
+    <PawnEditor.ScatteredLoot>espólios espalhados</PawnEditor.ScatteredLoot>
+    <PawnEditor.EquipmentLootDesc>Os equipamentos surgem perto dos colonos. Os espólios espalhados (ou estruturas) são distribuídos aleatoriamente pelo mapa.</PawnEditor.EquipmentLootDesc>
+    <PawnEditor.FactionRep>Reputação da facção</PawnEditor.FactionRep>
+    <PawnEditor.Settlements>Assentamentos</PawnEditor.Settlements>
+    <PawnEditor.DistanceFromColony>Distância da colônia</PawnEditor.DistanceFromColony>
+    <PawnEditor.DistanceFromColony.Calculate>Calcular distância da colônia</PawnEditor.DistanceFromColony.Calculate>
+    <PawnEditor.DistanceFromColony.NoPath>Sem caminho</PawnEditor.DistanceFromColony.NoPath>
+    <PawnEditor.TraitDisallowedByKind>A característica {0} não é permitida em {1}.</PawnEditor.TraitDisallowedByKind>
+    <PawnEditor.TraitConflicts>A característica {0} é incompatível com {1}.</PawnEditor.TraitConflicts>
+    <PawnEditor.TraitWorkDisabled>{0} não pode realizar {1}, exigido por {2}.</PawnEditor.TraitWorkDisabled>
+    <PawnEditor.AddPsylink>{0} é um psicopoder que exige um psilink. Deseja adicionar um?</PawnEditor.AddPsylink>
+    <PawnEditor.NoAdultOnChild>Não é possível adicionar a história de fundo adulta {0} a uma criança.</PawnEditor.NoAdultOnChild>
+    <PawnEditor.WearingWouldRemove>Vestir {0} removerá {1}. Deseja substituir?</PawnEditor.WearingWouldRemove>
+    <PawnEditor.HediffConflict>A prótese {0} é incompatível com a prótese instalada {1}. Adicionar mesmo assim?</PawnEditor.HediffConflict>
+    <PawnEditor.HediffDuplicate>Tem certeza de que deseja adicionar outra condição de saúde {0}?</PawnEditor.HediffDuplicate>
+    <PawnEditor.Teleport.Specific>Teletransportar para a localização exata</PawnEditor.Teleport.Specific>
+    <PawnEditor.AdditionalInfo>Informações adicionais</PawnEditor.AdditionalInfo>
+    <PawnEditor.NotEnoughPoints>Pontos insuficientes. Necessários: {0}; disponíveis: {1}.</PawnEditor.NotEnoughPoints>
+    <PawnEditor.ExportImage>Exportar retrato</PawnEditor.ExportImage>
+    <PawnEditor.ImageExported>Retrato de {0} exportado para {1}.</PawnEditor.ImageExported>
+    <PawnEditor.NegativePoints>O saldo de pontos está negativo.</PawnEditor.NegativePoints>
+    <PawnEditor.ClickToOpen>Clique para abrir a ficha de informações</PawnEditor.ClickToOpen>
+    <PawnEditor.MustBeOneEachGender>É necessário um personagem masculino e um feminino.</PawnEditor.MustBeOneEachGender>
+    <PawnEditor.WouldMakeOverCapacity>Adicionar {0} faria {1} ultrapassar a capacidade de carga.</PawnEditor.WouldMakeOverCapacity>
+    <PawnEditor.Edit>Editar</PawnEditor.Edit>
+    <PawnEditor.Edit.Desc>Abrir o Editor de Personagens para este personagem.</PawnEditor.Edit.Desc>
+    <PawnEditor.RelationExists>{0} já tem uma relação do tipo {1}. Ainda deseja adicionar esta relação?</PawnEditor.RelationExists>
+    <PawnEditor.DontShowAgain>Não mostrar novamente</PawnEditor.DontShowAgain>
+    <PawnEditor.ThoughtDuplicate>Já existe um pensamento do mesmo tipo. Ainda deseja adicionar este?</PawnEditor.ThoughtDuplicate>
+    <PawnEditor.CannotGetThought>{0} não pode ter o pensamento {1}.</PawnEditor.CannotGetThought>
+    <PawnEditor.AddThoughNullified>Adicionar {0} mesmo assim?</PawnEditor.AddThoughNullified>
+    <PawnEditor.MoodOffset>Alteração do humor</PawnEditor.MoodOffset>
+    <PawnEditor.MissingPart>Não foi encontrada uma parte válida para instalar {0}. Adicionar mesmo assim?</PawnEditor.MissingPart>
+    <PawnEditor.WouldDie>Adicionar {0} matará {1}. Adicionar mesmo assim?</PawnEditor.WouldDie>
+    <PawnEditor.WouldBeDowned>Adicionar {0} incapacitará {1}. Adicionar mesmo assim?</PawnEditor.WouldBeDowned>
+    <PawnEditor.Beard>Barba</PawnEditor.Beard>
+    <PawnEditor.NoRandomOptions>Nenhuma opção de aleatorização disponível nesta aba</PawnEditor.NoRandomOptions>
+    <PawnEditor.HARRestrictionViolated>A raça de {PAWN_possesive}, {RACE}, não pode {VERB} {ITEM}.</PawnEditor.HARRestrictionViolated>
+    <PawnEditor.Wear>vestir</PawnEditor.Wear>
+    <PawnEditor.Equip>equipar</PawnEditor.Equip>
+    <PawnEditor.Use>usar</PawnEditor.Use>
+    <PawnEditor.NoAddMechWarning>Não é possível adicionar mecanoides a facções que não são do jogador</PawnEditor.NoAddMechWarning>
+    <PawnEditor.NoOptions>Nenhuma opção disponível encontrada.</PawnEditor.NoOptions>
+    <PawnEditor.Opinion>opinião</PawnEditor.Opinion>
+    <PawnEditor.Mechs>mecanoides</PawnEditor.Mechs>
+    <PawnEditor.Choose>Escolher</PawnEditor.Choose>
+    <PawnEditor.Resurrect>Ressuscitar</PawnEditor.Resurrect>
+    <PawnEditor.MechsSection>Mecanoides</PawnEditor.MechsSection>
+    <PawnEditor.SelectedLocation>Localização selecionada</PawnEditor.SelectedLocation>
+    <PawnEditor.SelectedSide>Lado</PawnEditor.SelectedSide>
+    <PawnEditor.TraitsIncludingForced>Características (inclusive as obrigatórias)</PawnEditor.TraitsIncludingForced>
+    <PawnEditor.GradientHair>Cabelo em gradiente</PawnEditor.GradientHair>
+    <PawnEditor.GradientHairSecondColor>Segunda cor</PawnEditor.GradientHairSecondColor>
+    <PawnEditor.GradientHairFixesHint>Alguns cabelos antigos podem ficar invisíveis com Gradient Hair. O mod "Gradient Hair Fixes" corrige isso.</PawnEditor.GradientHairFixesHint>
+    <PawnEditor.RemoveFilter>Remover este filtro</PawnEditor.RemoveFilter>
+    <PawnEditor.FilterInverted>(invertido)</PawnEditor.FilterInverted>
+    <PawnEditor.BmModuleNeedsPart>{0} deve ser instalado em uma peça modular {1}. Este personagem ainda não tem uma instalada nesse local. Instale primeiro a peça modular e depois adicione o módulo.</PawnEditor.BmModuleNeedsPart>
+    <PawnEditor.BmModuleNeedsHost>{0} é um módulo e precisa de uma prótese modular para ser instalado. Instale primeiro uma (braço, perna ou olho modular, por exemplo) e depois adicione o módulo a essa peça.</PawnEditor.BmModuleNeedsHost>
+    <PawnEditor.AllowIllegalPlacements>Permitir instalações inválidas</PawnEditor.AllowIllegalPlacements>
+    <PawnEditor.AllowIllegalPlacements.Desc>Desativado por padrão: ao adicionar uma prótese, a parte de destino é liberada primeiro, como na cirurgia padrão, e um módulo só pode ser instalado em uma peça modular. Ative para empilhar implantes e instalar peças onde quiser. Isso pode gerar resultados estranhos.</PawnEditor.AllowIllegalPlacements.Desc>
+    <PawnEditor.FitsThisPawn>Compatível com este personagem</PawnEditor.FitsThisPawn>
+    <PawnEditor.FitsThisPawnDesc>Mostra apenas condições de saúde que alguma cirurgia pode instalar no corpo deste personagem. Assim, próteses de animais não aparecem na lista de humanos e vice-versa. Condições sem cirurgia (ferimentos, doenças, condições e módulos) sempre aparecem. Remova este filtro para ver tudo.</PawnEditor.FitsThisPawnDesc>
+    <PawnEditor.ModuleRequires>Este é um módulo que se encaixa em uma peça modular já instalada ({0}).</PawnEditor.ModuleRequires>
+    <PawnEditor.ModuleNeedsHost>{0} é um módulo e precisa de uma peça modular para ser instalado. Instale primeiro uma destas peças e depois adicione o módulo: {1}</PawnEditor.ModuleNeedsHost>
+    <PawnEditor.ModuleConflict>{0} não pode ser combinado com {1}, já instalado em {2}. Remova-o primeiro.</PawnEditor.ModuleConflict>
+    <PawnEditor.Optional>opcional</PawnEditor.Optional>
+
+    <!-- Quick Actions -->  
+    <PawnEditor.RepairAll>Reparar tudo</PawnEditor.RepairAll>
+
+    <!-- ItemType enum -->
+    <PawnEditor.ItemType.All>Todos</PawnEditor.ItemType.All>
+    <PawnEditor.ItemType.Apparel>Roupas</PawnEditor.ItemType.Apparel>
+    <PawnEditor.ItemType.Equipment>Equipamentos</PawnEditor.ItemType.Equipment>
+    <PawnEditor.ItemType.Possessions>Pertences</PawnEditor.ItemType.Possessions>
+    <PawnEditor.ItemType.Starting>Itens iniciais</PawnEditor.ItemType.Starting>
+
+    <!-- Fork fixes -->
+    <PawnEditor.SelectBodyPart>Selecione primeiro uma parte específica do corpo.</PawnEditor.SelectBodyPart>
+    <PawnEditor.MechNoOverseer>{0} não tem controlador. Atribua um colono mecanitor ou o mecanoide ficará fora de controle.</PawnEditor.MechNoOverseer>
+
+    <!-- Blueprint system -->
+    <PawnEditor.SaveBlueprint>Salvar como modelo (portátil)</PawnEditor.SaveBlueprint>
+
+    <!-- Colony save/load (v3.1) -->
+    <PawnEditor.SaveColonyPawns>Salvar personagens da colônia</PawnEditor.SaveColonyPawns>
+    <PawnEditor.SavingColony>Salvando colônia...</PawnEditor.SavingColony>
+    <PawnEditor.LoadColonyPawns>Carregar personagens da colônia</PawnEditor.LoadColonyPawns>
+    <PawnEditor.LoadingColony>Carregando colônia...</PawnEditor.LoadingColony>
+    <PawnEditor.NoSavedColonies>Nenhuma colônia salva encontrada.</PawnEditor.NoSavedColonies>
+    <PawnEditor.AllowPolygamyOnLoad>Permitir poligamia ao carregar</PawnEditor.AllowPolygamyOnLoad>
+    <PawnEditor.AllowPolygamyOnLoad.Desc>Ao carregar ou clonar um personagem cujo cônjuge, parceiro ou noivo já tenha outra pessoa, mantém a relação em vez de descartá-la. Desativado por padrão para não impor poligamia a uma ideologia monogâmica.</PawnEditor.AllowPolygamyOnLoad.Desc>
+    <PawnEditor.ColonyEntryLabel>{0}  ({1} personagens, {2})</PawnEditor.ColonyEntryLabel>
+    <PawnEditor.PickColony>Escolha uma colônia para carregar:</PawnEditor.PickColony>
+    <PawnEditor.ColonyLoadNew>Carregar como novos personagens (clones)</PawnEditor.ColonyLoadNew>
+    <PawnEditor.ColonyLoadReplace>Substituir personagens correspondentes (por ID)</PawnEditor.ColonyLoadReplace>
+    <PawnEditor.PickAtLeastOneCategory>Escolha pelo menos uma categoria.</PawnEditor.PickAtLeastOneCategory>
+    <PawnEditor.ColonyOverwriteAll>Sobrescrever tudo</PawnEditor.ColonyOverwriteAll>
+    <PawnEditor.ColonyMerge>Mesclar (manter outras categorias)</PawnEditor.ColonyMerge>
+    <PawnEditor.ColonySaveScopeNote>Somente colonos, animais e mecanoides presentes neste mapa serão salvos. Personagens fora do mapa (caravanas, viajantes) não estão incluídos.</PawnEditor.ColonySaveScopeNote>
+    <PawnEditor.RememberWindowPositions>Lembrar posição e tamanho das janelas</PawnEditor.RememberWindowPositions>
+    <PawnEditor.RememberWindowPositions.Desc>Quando ativado, as janelas do editor reabrem na última posição e no último tamanho usados. Quando desativado (padrão), elas abrem centralizadas, para que uma janela deixada fora da tela continue acessível.</PawnEditor.RememberWindowPositions.Desc>
+    <PawnEditor.Animations>Animações da interface</PawnEditor.Animations>
+    <PawnEditor.Animations.Desc>As barras deslizam até novos valores em vez de mudar instantaneamente. Desative em computadores mais lentos ou se preferir sem movimento.</PawnEditor.Animations.Desc>
+
+    <!-- VAspirE Aspirations -->
+    <PawnEditor.ClickToComplete>Clique para marcar como concluída</PawnEditor.ClickToComplete>
+    <PawnEditor.ClickToUncomplete>Clique para marcar como pendente</PawnEditor.ClickToUncomplete>
+    <PawnEditor.EditAspirations>Editar aspirações</PawnEditor.EditAspirations>
+    <PawnEditor.Aspirations>Aspirações</PawnEditor.Aspirations>
+    <PawnEditor.AddAspiration>Adicionar aspiração</PawnEditor.AddAspiration>
+    <PawnEditor.RemoveAspiration>Remover</PawnEditor.RemoveAspiration>
+    <PawnEditor.CompleteAllAspirations>Concluir todas</PawnEditor.CompleteAllAspirations>
+    <PawnEditor.UncompleteAllAspirations>Redefinir todas</PawnEditor.UncompleteAllAspirations>
+    <PawnEditor.AspirationCompleted>Concluída</PawnEditor.AspirationCompleted>
+    <PawnEditor.AspirationPending>Pendente</PawnEditor.AspirationPending>
+    <PawnEditor.AspirationNotValid>Inválida para este personagem</PawnEditor.AspirationNotValid>
+    <PawnEditor.AspirationAlreadyAssigned>{0} já está atribuída a este personagem</PawnEditor.AspirationAlreadyAssigned>
+
+    <!-- Xenotype change -->
+    <PawnEditor.XenotypeChangeWarning>Mudar o xenótipo de {0} para {1} redefinirá todos os genes atuais.</PawnEditor.XenotypeChangeWarning>
+    <PawnEditor.ResetGenesToBase>Todos os endogenes e xenogenes existentes serão removidos e substituídos pelos genes do novo xenótipo. Isso não pode ser desfeito.</PawnEditor.ResetGenesToBase>
+    <PawnEditor.Inheritable>Herdável</PawnEditor.Inheritable>
+    <PawnEditor.NotInheritable>Não herdável</PawnEditor.NotInheritable>
+    <PawnEditor.CustomXenotypes>Xenótipos personalizados</PawnEditor.CustomXenotypes>
+    <PawnEditor.NoCustomXenotypes>Nenhum xenótipo personalizado encontrado. Use o editor de xenótipos para criar um.</PawnEditor.NoCustomXenotypes>
+    <PawnEditor.NoSearchResults>Nenhum resultado encontrado.</PawnEditor.NoSearchResults>
+    <PawnEditor.OtherCosmetic>Outros itens cosméticos</PawnEditor.OtherCosmetic>
+
+    <!-- Life Lessons Proficiencies -->
+    <PawnEditor.EditProficiencies>Editar proficiências</PawnEditor.EditProficiencies>
+    <PawnEditor.ProficienciesLearnable>Pode aprender</PawnEditor.ProficienciesLearnable>
+    <PawnEditor.ProficienciesKnown>Conhecidas</PawnEditor.ProficienciesKnown>
+    <PawnEditor.ProficiencyClickLearn>Clique para aprender</PawnEditor.ProficiencyClickLearn>
+    <PawnEditor.ProficiencyClickRemove>Clique para remover</PawnEditor.ProficiencyClickRemove>
+    <PawnEditor.ProficiencyNeedsN>exige {0}</PawnEditor.ProficiencyNeedsN>
+    <PawnEditor.ProficiencyRequires>Exige:</PawnEditor.ProficiencyRequires>
+    <PawnEditor.ProficiencyRequiredBy>Remover isto também remove: {0}</PawnEditor.ProficiencyRequiredBy>
+    <PawnEditor.ProficiencyRemoveCascade>Remover {0} também removerá tudo que depende dela: {1}.\n\nContinuar?</PawnEditor.ProficiencyRemoveCascade>
+    <PawnEditor.Search>Pesquisar</PawnEditor.Search>
+    <PawnEditor.LoadingItem>Carregando...</PawnEditor.LoadingItem>
+    <PawnEditor.OverrideUnsupportedGenes>Permitir genes não compatíveis</PawnEditor.OverrideUnsupportedGenes>
+    <PawnEditor.OverrideUnsupportedGenes.Desc>Permite genes cosméticos mesmo quando a compatibilidade com o xenótipo ou a raça atual do personagem os marca como incompatíveis.</PawnEditor.OverrideUnsupportedGenes.Desc>
+    <PawnEditor.PassionLearningSpeed>Velocidade de aprendizado: {0}</PawnEditor.PassionLearningSpeed>
+    <PawnEditor.Preview.RotateLeft>Girar para a esquerda</PawnEditor.Preview.RotateLeft>
+    <PawnEditor.Preview.DragHint>Arraste para reposicionar. Use a roda do mouse para ampliar.</PawnEditor.Preview.DragHint>
+    <PawnEditor.Source>Origem</PawnEditor.Source>
+    <PawnEditor.Category>Categoria</PawnEditor.Category>
+    <PawnEditor.XenotypeCategoryDesc>Filtrar genes cosméticos por categoria de aparência.</PawnEditor.XenotypeCategoryDesc>
+    <PawnEditor.RJW.Sexuality>Sexualidade</PawnEditor.RJW.Sexuality>
+    <PawnEditor.FA.Tab>Animação facial</PawnEditor.FA.Tab>
+    <PawnEditor.FA.Eyes>Olhos</PawnEditor.FA.Eyes>
+    <PawnEditor.FA.Brows>Sobrancelhas</PawnEditor.FA.Brows>
+    <PawnEditor.FA.Lids>Pálpebras</PawnEditor.FA.Lids>
+    <PawnEditor.FA.Mouth>Boca</PawnEditor.FA.Mouth>
+    <PawnEditor.FA.Skin>Pele</PawnEditor.FA.Skin>
+    <PawnEditor.FA.Head>Cabeça</PawnEditor.FA.Head>
+    <PawnEditor.FA.EyeColor>Cor dos olhos</PawnEditor.FA.EyeColor>
+    <PawnEditor.FA.EyeSecondColor>Segunda cor dos olhos</PawnEditor.FA.EyeSecondColor>
+    <PawnEditor.Apply>Aplicar</PawnEditor.Apply>
+    <PawnEditor.VPE.NoPsycasts>Este personagem não possui dados de psicopoderes do VPE no momento.</PawnEditor.VPE.NoPsycasts>
+    <PawnEditor.VPE.MeditationType>Tipo de meditação</PawnEditor.VPE.MeditationType>
+    <PawnEditor.VPE.PsycastPath>Caminho de psicopoderes</PawnEditor.VPE.PsycastPath>
+    <PawnEditor.RoyaltyUnavailable>Royalty não está disponível para este personagem.</PawnEditor.RoyaltyUnavailable>
+    <PawnEditor.AbilityAlreadyKnown>{0} já é conhecida por este personagem.</PawnEditor.AbilityAlreadyKnown>
+    <PawnEditor.Royalty.Titles>Títulos</PawnEditor.Royalty.Titles>
+    <PawnEditor.Royalty.Permits>Permissões</PawnEditor.Royalty.Permits>
+    <PawnEditor.Royalty.Psycasts>Psicopoderes</PawnEditor.Royalty.Psycasts>
+    <PawnEditor.Royalty.Successors>Sucessores</PawnEditor.Royalty.Successors>
+    <PawnEditor.Royalty.Faction>Facção real</PawnEditor.Royalty.Faction>
+    <PawnEditor.Royalty.CurrentTitle>Título atual</PawnEditor.Royalty.CurrentTitle>
+    <PawnEditor.Royalty.AvailablePermitPoints>Pontos de permissão disponíveis</PawnEditor.Royalty.AvailablePermitPoints>
+    <PawnEditor.Royalty.AvailablePermitPointsValue>Pontos de permissão disponíveis: {0}</PawnEditor.Royalty.AvailablePermitPointsValue>
+    <PawnEditor.Royalty.NoFaction>Nenhuma facção real disponível.</PawnEditor.Royalty.NoFaction>
+    <PawnEditor.Royalty.Permit>Permissão</PawnEditor.Royalty.Permit>
+    <PawnEditor.Royalty.MinimumTitle>Título mínimo</PawnEditor.Royalty.MinimumTitle>
+    <PawnEditor.Royalty.Cost>Custo</PawnEditor.Royalty.Cost>
+    <PawnEditor.Royalty.Status>Status</PawnEditor.Royalty.Status>
+    <PawnEditor.Royalty.Grant>Conceder</PawnEditor.Royalty.Grant>
+    <PawnEditor.Royalty.Granted>Concedida</PawnEditor.Royalty.Granted>
+    <PawnEditor.Royalty.IncludedWithTitle>Incluída com o título</PawnEditor.Royalty.IncludedWithTitle>
+    <PawnEditor.Royalty.NotGranted>Não concedida</PawnEditor.Royalty.NotGranted>
+    <PawnEditor.Royalty.SearchPermits>Pesquisar permissões</PawnEditor.Royalty.SearchPermits>
+    <PawnEditor.Royalty.NoTitleForSuccessor>Atribua um título real herdável antes de selecionar um sucessor.</PawnEditor.Royalty.NoTitleForSuccessor>
+    <PawnEditor.Royalty.TitleNotInheritable>{0} não pode ser herdado.</PawnEditor.Royalty.TitleNotInheritable>
+    <PawnEditor.Royalty.NoSuccessor>Nenhum sucessor selecionado</PawnEditor.Royalty.NoSuccessor>
+    <PawnEditor.Royalty.ChooseSuccessor>Escolher sucessor</PawnEditor.Royalty.ChooseSuccessor>
+    <PawnEditor.Royalty.ClearSuccessor>Limpar</PawnEditor.Royalty.ClearSuccessor>
+    <PawnEditor.Royalty.Select>Selecionar</PawnEditor.Royalty.Select>
+    <PawnEditor.Royalty.VanillaPsycasts>Psicopoderes de Royalty</PawnEditor.Royalty.VanillaPsycasts>
+    <PawnEditor.Royalty.PsylinkLevel>Nível de psilink</PawnEditor.Royalty.PsylinkLevel>
+    <PawnEditor.Royalty.CurrentPsyfocus>Psyfoco atual (%)</PawnEditor.Royalty.CurrentPsyfocus>
+    <PawnEditor.Royalty.TargetPsyfocus>Psyfoco desejado (%)</PawnEditor.Royalty.TargetPsyfocus>
+    <PawnEditor.Royalty.Entropy>Calor neural</PawnEditor.Royalty.Entropy>
+    <PawnEditor.Royalty.LimitEntropy>Limitar calor neural</PawnEditor.Royalty.LimitEntropy>
+    <PawnEditor.Royalty.LearnedPsycasts>Psicopoderes de Royalty aprendidos</PawnEditor.Royalty.LearnedPsycasts>
+    <PawnEditor.Royalty.NoPsycasts>Nenhum psicopoder de Royalty aprendido.</PawnEditor.Royalty.NoPsycasts>
+    <PawnEditor.Royalty.PsycastLevel>{0} (nível {1})</PawnEditor.Royalty.PsycastLevel>
+    <PawnEditor.Development.TraumaIntegrity>Trauma e Integridade</PawnEditor.Development.TraumaIntegrity>
+    <PawnEditor.Development.CharacterUnavailable>Character Development armazena desejos e peculiaridades apenas de colonos e escravos da colônia compatíveis. Este personagem não é compatível com o mod no momento.</PawnEditor.Development.CharacterUnavailable>
+    <PawnEditor.Development.Wants>Desejos</PawnEditor.Development.Wants>
+    <PawnEditor.Development.Quirks>Peculiaridades</PawnEditor.Development.Quirks>
+    <PawnEditor.Development.NoWants>Nenhum desejo ativo</PawnEditor.Development.NoWants>
+    <PawnEditor.Development.NoQuirks>Nenhuma peculiaridade</PawnEditor.Development.NoQuirks>
+    <PawnEditor.Development.RemoveWant>Remover desejo</PawnEditor.Development.RemoveWant>
+    <PawnEditor.Development.Complete>Concluir</PawnEditor.Development.Complete>
+    <PawnEditor.Development.CompleteDesc>Conclui este desejo por meio do Character Development. Isso concede a quantidade normal de pontos de personagem para toda a colônia.</PawnEditor.Development.CompleteDesc>
+    <PawnEditor.Development.Reroll>Sortear novamente</PawnEditor.Development.Reroll>
+    <PawnEditor.Development.RerollsRemaining>{0} novas tentativas restantes</PawnEditor.Development.RerollsRemaining>
+    <PawnEditor.Development.RemoveQuirk>Remover peculiaridade</PawnEditor.Development.RemoveQuirk>
+    <PawnEditor.Development.RemoveQuirkConfirm>Remover {0}? Todos os genes ou condições de saúde concedidos por esta peculiaridade também serão removidos.</PawnEditor.Development.RemoveQuirkConfirm>
+    <PawnEditor.Development.AddWant>Adicionar desejo</PawnEditor.Development.AddWant>
+    <PawnEditor.Development.AddWantFailed>O Character Development não conseguiu adicionar esse desejo.</PawnEditor.Development.AddWantFailed>
+    <PawnEditor.Development.NoAvailableWants>Nenhum desejo válido e ainda não atribuído está disponível para este personagem.</PawnEditor.Development.NoAvailableWants>
+    <PawnEditor.Development.AddQuirk>Adicionar peculiaridade</PawnEditor.Development.AddQuirk>
+    <PawnEditor.Development.AddQuirkFailed>O Character Development não conseguiu adicionar essa peculiaridade.</PawnEditor.Development.AddQuirkFailed>
+    <PawnEditor.Development.NoAvailableQuirks>Nenhuma peculiaridade válida está disponível para este personagem e o mapa atual.</PawnEditor.Development.NoAvailableQuirks>
+    <PawnEditor.Development.TargetQuirksRequireMap>Peculiaridades que exigem um item ou personagem como alvo requerem um mapa carregado. Apenas peculiaridades sem alvo são mostradas.</PawnEditor.Development.TargetQuirksRequireMap>
+    <PawnEditor.Development.NoAvailableQuirksWithoutMap>Peculiaridades que exigem um item ou personagem como alvo requerem um mapa carregado, e nenhuma peculiaridade sem alvo está disponível.</PawnEditor.Development.NoAvailableQuirksWithoutMap>
+    <PawnEditor.Development.NoValidTargets>Nenhum alvo válido disponível em um mapa carregado.</PawnEditor.Development.NoValidTargets>
+    <PawnEditor.Development.ChooseItem>Escolha um item para {0}</PawnEditor.Development.ChooseItem>
+    <PawnEditor.Development.TraumaPercent>Trauma</PawnEditor.Development.TraumaPercent>
+    <PawnEditor.Development.TraumaState>Estado</PawnEditor.Development.TraumaState>
+    <PawnEditor.Development.Innocent>Inocente</PawnEditor.Development.Innocent>
+    <PawnEditor.Development.Disturbed>Perturbado</PawnEditor.Development.Disturbed>
+    <PawnEditor.Development.Tempered>Resiliente</PawnEditor.Development.Tempered>
+    <PawnEditor.Development.TraumaApplyDesc>Aplicar o trauma uma vez aciona o tratamento nativo dos limites de Trauma e Integridade para o estado resiliente e as características traumáticas.</PawnEditor.Development.TraumaApplyDesc>
+    <PawnEditor.Development.IntegrityPercent>Integridade</PawnEditor.Development.IntegrityPercent>
+    <PawnEditor.Development.IntegrityApplyDesc>Aplicar a integridade refaz o sorteio do estado de traição por meio do comportamento nativo de Trauma e Integridade.</PawnEditor.Development.IntegrityApplyDesc>
+    <PawnEditor.Development.Betrayer>Traidor</PawnEditor.Development.Betrayer>
+    <PawnEditor.Development.BetrayerDesc>Este é um estado de jogo oculto. Ativá-lo torna o personagem imediatamente elegível para trair.</PawnEditor.Development.BetrayerDesc>
+    <PawnEditor.Thought.SituationalCannotRemove>Este é um pensamento situacional, não uma lembrança. O jogo o recalcula a partir do estado atual do personagem. Removê-lo não teria efeito: ele voltaria imediatamente. Ele desaparece quando a causa deixa de existir.</PawnEditor.Thought.SituationalCannotRemove>
+    <PawnEditor.Thought.NotAMemoryCannotRemove>Somente lembranças podem ser removidas. Este pensamento é gerado pelo jogo ou por outro mod, em vez de ser armazenado no personagem; portanto, não há nada para excluir aqui.</PawnEditor.Thought.NotAMemoryCannotRemove>
+    <PawnEditor.Development.BetrayalIn>Traição em</PawnEditor.Development.BetrayalIn>
+    <PawnEditor.Development.BetrayalInDesc>Dias restantes até a traição deste personagem. Trauma e Integridade sorteia esse prazo quando um personagem se torna traidor, de imediatamente a centenas de dias. Defina 0 para que a traição possa ocorrer agora.</PawnEditor.Development.BetrayalInDesc>
+    <PawnEditor.Development.DaysShort>d</PawnEditor.Development.DaysShort>
+    <PawnEditor.Development.ClearAllBetrayers>Remover a marca de traidor de todos os personagens</PawnEditor.Development.ClearAllBetrayers>
+    <PawnEditor.Development.ClearAllBetrayersConfirm>{0} personagem(ns) estão marcados como traidores.\n\nRemover a marca de todos? Isso também remove as marcas que você definiu de propósito e as criadas pelo próprio Trauma e Integridade.</PawnEditor.Development.ClearAllBetrayersConfirm>
+    <PawnEditor.Development.BetrayersCleared>A marca de traidor foi removida de {0} personagem(ns).</PawnEditor.Development.BetrayersCleared>
+    <PawnEditor.Development.NoBetrayers>Nenhum personagem está marcado como traidor.</PawnEditor.Development.NoBetrayers>
+    <PawnEditor.Development.TraumaDisabled>O trauma está desativado nas configurações de Trauma e Integridade. O valor armazenado ainda pode ser editado aqui.</PawnEditor.Development.TraumaDisabled>
+    <PawnEditor.Development.IntegrityDisabled>A integridade está desativada nas configurações de Trauma e Integridade. O valor armazenado ainda pode ser editado aqui.</PawnEditor.Development.IntegrityDisabled>
+    <PawnEditor.Development.IntegrityHidden>A integridade está oculta durante o jogo normal pelas configurações do mod. O Editor de Personagens ainda a mostra aqui.</PawnEditor.Development.IntegrityHidden>
+    <PawnEditor.Development.IntegrityUninitialized>A integridade deste personagem ainda não foi inicializada. Aplicar um valor a inicializará e sorteará o estado de traição.</PawnEditor.Development.IntegrityUninitialized>
+    <!-- Developmental stage change warning -->
+    <PawnEditor.DevStage.WarnHeader>Mudar para {0} irá:</PawnEditor.DevStage.WarnHeader>
+    <PawnEditor.DevStage.WarnFooter>Isso não pode ser desfeito. Continuar?</PawnEditor.DevStage.WarnFooter>
+    <PawnEditor.DevStage.WarnAdulthood>- Remover a história de fundo adulta ({0})</PawnEditor.DevStage.WarnAdulthood>
+    <PawnEditor.DevStage.WarnRomance>- Remover relações românticas (cônjuge, parceiro, noivo, ex)</PawnEditor.DevStage.WarnRomance>
+    <PawnEditor.DevStage.WarnParents>- Remover relações parentais</PawnEditor.DevStage.WarnParents>
+    <PawnEditor.DevStage.WarnPregnancy>- Remover gravidez ou infestação parasitária</PawnEditor.DevStage.WarnPregnancy>
+    <PawnEditor.DevStage.WarnWeapons>- Mover armas para o inventário</PawnEditor.DevStage.WarnWeapons>
+    <PawnEditor.DevStage.WarnAspirations>- Remover todas as aspirações (crianças não podem tê-las)</PawnEditor.DevStage.WarnAspirations>
+    <PawnEditor.DevStage.WarnNewAdulthood>- Gerar uma história de fundo adulta aleatória</PawnEditor.DevStage.WarnNewAdulthood>
+    <PawnEditor.DevStage.WarnBodyType>- Mudar o tipo de corpo para adulto</PawnEditor.DevStage.WarnBodyType>
+</LanguageData>
